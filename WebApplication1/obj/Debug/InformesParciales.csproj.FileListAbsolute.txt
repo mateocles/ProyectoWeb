@@ -1,0 +1,491 @@
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\InformesParciales.csprojResolveAssemblyReference.cache
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\MySql.Data.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\MySql.Data.xml
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Entidades.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\LogicaNegocio.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\AccesoDatos.dll
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Entidades.pdb
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\LogicaNegocio.pdb
+C:\Users\mipc\Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\AccesoDatos.pdb
+H:\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+H:\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+H:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+H:\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+H:\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+H:\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+H:\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+H:\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+H:\WebApplication1\WebApplication1\bin\WebApplication1.dll
+H:\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+H:\WebApplication1\WebApplication1\bin\Entidades.dll
+H:\WebApplication1\WebApplication1\bin\LogicaNegocio.dll
+H:\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+H:\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+H:\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+H:\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+H:\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+H:\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\WebApplication1\WebApplication1\bin\MySql.Data.dll
+H:\WebApplication1\WebApplication1\bin\AccesoDatos.dll
+H:\WebApplication1\WebApplication1\bin\Entidades.pdb
+H:\WebApplication1\WebApplication1\bin\LogicaNegocio.pdb
+H:\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+H:\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+H:\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+H:\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+H:\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\WebApplication1\WebApplication1\bin\MySql.Data.xml
+H:\WebApplication1\WebApplication1\bin\AccesoDatos.pdb
+H:\WebApplication1\WebApplication1\obj\Debug\InformesParciales.csprojResolveAssemblyReference.cache
+H:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+H:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+F:\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+F:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+F:\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\WebApplication1\WebApplication1\bin\Entidades.dll
+F:\WebApplication1\WebApplication1\bin\LogicaNegocio.dll
+F:\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WebApplication1\WebApplication1\bin\MySql.Data.dll
+F:\WebApplication1\WebApplication1\bin\AccesoDatos.dll
+F:\WebApplication1\WebApplication1\bin\Entidades.pdb
+F:\WebApplication1\WebApplication1\bin\LogicaNegocio.pdb
+F:\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+F:\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WebApplication1\WebApplication1\bin\MySql.Data.xml
+F:\WebApplication1\WebApplication1\bin\AccesoDatos.pdb
+F:\WebApplication1\WebApplication1\obj\Debug\InformesParciales.csprojResolveAssemblyReference.cache
+F:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\InformesParciales.csprojResolveAssemblyReference.cache
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Entidades.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\LogicaNegocio.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\MySql.Data.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\AccesoDatos.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Entidades.pdb
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\LogicaNegocio.pdb
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\MySql.Data.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\WebApplication1\WebApplication1\bin\AccesoDatos.pdb
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Entidades.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\LogicaNegocio.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\MySql.Data.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\AccesoDatos.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Entidades.pdb
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\LogicaNegocio.pdb
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\MySql.Data.xml
+H:\Copia de seguridad web\WebApplication1\WebApplication1\bin\AccesoDatos.pdb
+H:\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\InformesParciales.csprojResolveAssemblyReference.cache
+H:\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+H:\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Entidades.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\LogicaNegocio.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\MySql.Data.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\AccesoDatos.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Entidades.pdb
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\LogicaNegocio.pdb
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\MySql.Data.xml
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\bin\AccesoDatos.pdb
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\InformesParciales.csprojResolveAssemblyReference.cache
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\mipc\Desktop\Sexto Semestre\Copia de seguridad web\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Entidades.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\LogicaNegocio.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\MySql.Data.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\AccesoDatos.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Entidades.pdb
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\LogicaNegocio.pdb
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\MySql.Data.xml
+F:\Copia de seguridad web\WebApplication1\WebApplication1\bin\AccesoDatos.pdb
+F:\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\InformesParciales.csprojResolveAssemblyReference.cache
+F:\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Entidades.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\LogicaNegocio.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\MySql.Data.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\AccesoDatos.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Entidades.pdb
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\LogicaNegocio.pdb
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\MySql.Data.xml
+E:\Copia de seguridad web\WebApplication1\WebApplication1\bin\AccesoDatos.pdb
+E:\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\InformesParciales.csprojResolveAssemblyReference.cache
+E:\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Entidades.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\LogicaNegocio.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\MySql.Data.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\AccesoDatos.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Entidades.pdb
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\LogicaNegocio.pdb
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\MySql.Data.xml
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\bin\AccesoDatos.pdb
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\InformesParciales.csprojResolveAssemblyReference.cache
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Gcma\Desktop\Copia de seguridad web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\WebApplication1.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Entidades.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\LogicaNegocio.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\MySql.Data.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\AccesoDatos.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Entidades.pdb
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\LogicaNegocio.pdb
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\MySql.Data.xml
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\bin\AccesoDatos.pdb
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\obj\Debug\InformesParciales.csprojResolveAssemblyReference.cache
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+H:\Copia de seguridad web2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Entidades.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\LogicaNegocio.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\MySql.Data.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\AccesoDatos.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Entidades.pdb
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\LogicaNegocio.pdb
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\MySql.Data.xml
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\bin\AccesoDatos.pdb
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\obj\Debug\InformesParciales.csprojResolveAssemblyReference.cache
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\PC1\Desktop\Copia de seguridad web2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Entidades.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\LogicaNegocio.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\MySql.Data.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\AccesoDatos.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Entidades.pdb
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\LogicaNegocio.pdb
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\MySql.Data.xml
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\bin\AccesoDatos.pdb
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\obj\Debug\InformesParciales.csprojResolveAssemblyReference.cache
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Pc1\Documents\Escritorio\Copia de seguridad web2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

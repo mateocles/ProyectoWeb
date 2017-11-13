@@ -1,0 +1,148 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
+    font-family: sans-serif;
+    background-image: url('../Imagenes/imgtesy.jpg');
+    display: flex;
+    min-height: 100vh;
+    background-size: 100%;
+}
+
+        .auto-style1 {
+            width: 300px;
+            flex-flow:wrap;
+        }
+       
+        .auto-style2 {
+            width: 300px;
+                    flex-flow:wrap;
+        }
+       
+        .auto-style3 {
+            background-position: 0% 0%;
+            width: 76%;
+            max-width: 600px;
+            margin: auto;
+            border-radius: 7px;
+            background-color: rgba(255,255,255,0.5);
+            background-image: none;
+            background-repeat: repeat;
+            background-attachment: scroll;
+        }
+       
+        .auto-style4 {
+            height: 339px;
+            text-align:center;
+        }
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+.form-register {
+    background-position: 0% 0%;
+    width: 88%;
+    max-width: 600px;
+    margin: auto;
+    border-radius: 7px;
+    background-color: rgba(255,255,255,0.7);
+    background-image: none;
+    background-repeat: repeat;
+    background-attachment: scroll;
+}
+
+.url img {
+    width: 115px;
+    height: 60px;
+    margin: auto;
+}
+
+.udla img {
+    width: 80px;
+    height: 60px;
+    margin: auto;
+}
+
+.form-titulo {
+    color: #302e2e;
+    padding: 20px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgba(0,0,0,0.9);
+    background: #082f8a;
+    color: #fff;
+    padding: 20px;
+    font-weight: 100;
+    font-size: 30px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom: 5px solid #0053ff;
+    text-align:"center";
+}
+
+.contenedor-inputs {
+    padding: 10px 20px;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+}
+
+input {
+    margin-bottom: 12px;
+    padding: 12px;
+    font-size: 12px;
+    border-radius: 3px;
+    border: 1px solid darkgray;
+}
+.estiloletra1 {
+    
+    font-family: "sans-serif";
+    color: blue;
+}
+
+.input-45 {
+    width: 40%;
+}
+
+.input-35 {
+    width: 35%;
+}
+
+.input-80 {
+    width: 80%;
+}
+
+.input-60 {
+    width: 60%;
+}
+
+}
+
+.input-30 {
+    width: 30%;
+}
+
+input[type="submit"] {
+    background: linear-gradient(#0053ff,#033190);
+    border: 0.1px;
+    color: #fff;
+    opacity: 0.8;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-bottom: 0;
+    margin: auto;
+}
+
+    input[type="submit"]:hover {
+        opacity: 1;
+    }
+
+    input[type="submit"]:active {
+        transform: scale(0.95);
+    }

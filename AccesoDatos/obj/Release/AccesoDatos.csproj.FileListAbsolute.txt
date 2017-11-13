@@ -1,0 +1,41 @@
+F:\WebApplication1\AccesoDatos\bin\Release\AccesoDatos.dll
+F:\WebApplication1\AccesoDatos\bin\Release\AccesoDatos.pdb
+F:\WebApplication1\AccesoDatos\bin\Release\MySql.Data.dll
+F:\WebApplication1\AccesoDatos\bin\Release\MySql.Data.xml
+F:\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+F:\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.dll
+F:\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.pdb
+H:\WebApplication1\AccesoDatos\bin\Release\AccesoDatos.dll
+H:\WebApplication1\AccesoDatos\bin\Release\AccesoDatos.pdb
+H:\WebApplication1\AccesoDatos\bin\Release\MySql.Data.dll
+H:\WebApplication1\AccesoDatos\bin\Release\MySql.Data.xml
+H:\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+H:\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.dll
+H:\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.pdb
+D:\Copia de seguridad web\WebApplication1\AccesoDatos\bin\Release\AccesoDatos.dll
+D:\Copia de seguridad web\WebApplication1\AccesoDatos\bin\Release\AccesoDatos.pdb
+D:\Copia de seguridad web\WebApplication1\AccesoDatos\bin\Release\MySql.Data.xml
+D:\Copia de seguridad web\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\Copia de seguridad web\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.dll
+D:\Copia de seguridad web\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.pdb
+H:\Copia de seguridad web\WebApplication1\AccesoDatos\bin\Release\AccesoDatos.dll
+H:\Copia de seguridad web\WebApplication1\AccesoDatos\bin\Release\AccesoDatos.pdb
+H:\Copia de seguridad web\WebApplication1\AccesoDatos\bin\Release\MySql.Data.dll
+H:\Copia de seguridad web\WebApplication1\AccesoDatos\bin\Release\MySql.Data.xml
+H:\Copia de seguridad web\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+H:\Copia de seguridad web\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.dll
+H:\Copia de seguridad web\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.pdb
+G:\Copia de seguridad web\WebApplication1\AccesoDatos\bin\Release\AccesoDatos.dll
+G:\Copia de seguridad web\WebApplication1\AccesoDatos\bin\Release\AccesoDatos.pdb
+G:\Copia de seguridad web\WebApplication1\AccesoDatos\bin\Release\MySql.Data.dll
+G:\Copia de seguridad web\WebApplication1\AccesoDatos\bin\Release\MySql.Data.xml
+G:\Copia de seguridad web\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+G:\Copia de seguridad web\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.dll
+G:\Copia de seguridad web\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.pdb
+C:\Users\mipc\Desktop\Copia de seguridad web2\WebApplication1\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\mipc\Desktop\Copia de seguridad web2\WebApplication1\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\mipc\Desktop\Copia de seguridad web2\WebApplication1\AccesoDatos\bin\Release\MySql.Data.dll
+C:\Users\mipc\Desktop\Copia de seguridad web2\WebApplication1\AccesoDatos\bin\Release\MySql.Data.xml
+C:\Users\mipc\Desktop\Copia de seguridad web2\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\mipc\Desktop\Copia de seguridad web2\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\mipc\Desktop\Copia de seguridad web2\WebApplication1\AccesoDatos\obj\Release\AccesoDatos.pdb
